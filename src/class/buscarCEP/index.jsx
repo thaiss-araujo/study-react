@@ -27,6 +27,7 @@ export default function BuscarCep(){
                         <p>endereço: {data.logradouro}</p>
                         <p>cidade: {data.localidade}</p>
                         <p>bairro: {data.bairro}</p>
+                        <input type="color" name="" id="" />
                     </div>
                 )
             }
